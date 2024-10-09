@@ -1,5 +1,5 @@
 
-**Lista de casos a fazer:**
+**Lista de casos a serem feitos:**
 
     1 caso de uso: cadastro de produto(inserir produtos);
     
